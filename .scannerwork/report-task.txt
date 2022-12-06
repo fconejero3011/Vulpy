@@ -1,0 +1,6 @@
+projectKey=VulpyFCL
+serverUrl=http://172.31.16.4
+serverVersion=9.7.1.62043
+dashboardUrl=http://172.31.16.4/dashboard?id=VulpyFCL
+ceTaskId=AYTnpxwdXLEKXt1YN5XB
+ceTaskUrl=http://172.31.16.4/api/ce/task?id=AYTnpxwdXLEKXt1YN5XB
